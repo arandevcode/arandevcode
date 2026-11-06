@@ -60,3 +60,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/sponsors/arandevcode">❤️ Sponsor on GitHub</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arandevcode&label=profile%20views&color=555555&style=flat-square" alt="Profile views">
+</p>
