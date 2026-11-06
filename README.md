@@ -12,6 +12,15 @@
 
 ---
 
+## 🧭 Philosophy
+
+- 🆓 Free and open source.
+- 🔒 Everything runs locally, no telemetry.
+- ⚡ Light to run, single purpose.
+- 🐐 Standing on the shoulders of giants: dependencies and inspirations are credited.
+
+---
+
 ## 🧩 OpenCode
 
 [**opencode-plugins**](https://github.com/arandevcode/opencode-plugins) — plugins for [OpenCode](https://opencode.ai), on npm.
@@ -24,7 +33,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-thinking/images/demo.gif" alt="opencode-thinking" width="400">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-quota-extended/images/opencode_quota_extended_sidebar_v2.png" alt="opencode-quota-extended" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-quota-extended/images/opencode_quota_extended_sidebar_v2.png" alt="opencode-quota-extended" height="380">
 </p>
 
 ## 🧩 Claude Code
@@ -42,20 +51,9 @@
   <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/quota-panel/images/quota-panel.png" alt="quota-panel" width="400">
 </p>
 
-```
-/plugin install quota-panel --marketplace arandevcode/claude-mods
-```
-
 > Each OpenCode plugin has a Claude Code mod with the same idea, and each README links to its counterpart.
 
 ---
-
-## 🧭 Philosophy
-
-- 🆓 Free and open source.
-- 🔒 Everything runs locally, no telemetry.
-- ⚡ Light to run, single purpose.
-- 🐐 Standing on the shoulders of giants: dependencies and inspirations are credited.
 
 <p align="center">
   <a href="https://buymeacoffee.com/arandevcode"><strong>☕ Buy me a coffee</strong></a>
