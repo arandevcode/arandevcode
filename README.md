@@ -27,11 +27,11 @@
 
 | Plugin | What it does |
 |--------|--------------|
-| [opencode-thinking](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-thinking) | Animated thinking indicators with a theme-aware rainbow border and an IDLE state |
-| [opencode-quota-extended](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-quota-extended) | OpenCode Go quota, spend and balance with per-window cards and a CLI |
+| [opencode-thinking](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-thinking) | WORKING / WAITING / IDLE band that also follows subagents and background tasks, with a theme-aware rainbow border |
+| [opencode-quota-extended](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-quota-extended) | OpenCode Go quota, spend and balance with per-window cards, a CLI, and a flag when a reading goes stale |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-thinking/images/demo.gif" alt="opencode-thinking" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-thinking/images/opencode-thinking-v2.gif" alt="opencode-thinking" width="400">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-quota-extended/images/opencode_quota_extended_sidebar_v2.png" alt="opencode-quota-extended" height="380">
 </p>
@@ -42,13 +42,13 @@
 
 | Mod | What it does |
 |-----|--------------|
-| [glow-thinking](https://github.com/arandevcode/claude-mods/tree/main/glow-thinking) | IDLE / WORKING band and a gradient border around every side panel |
-| [quota-panel](https://github.com/arandevcode/claude-mods/tree/main/quota-panel) | Side panel with your 5h and weekly limits, pace and session cost |
+| [glow-thinking](https://github.com/arandevcode/claude-mods/tree/main/glow-thinking) | WORKING / WAITING / IDLE band (it follows subagents and background tasks) and a gradient border around every side panel |
+| [quota-panel](https://github.com/arandevcode/claude-mods/tree/main/quota-panel) | Side panel with your 5h and weekly limits, pace and session cost, and a flag when the reading is stale |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/glow-thinking/images/glow-thinking.png" alt="glow-thinking" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/glow-thinking/images/glow-thinking.gif" alt="glow-thinking" width="400">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/quota-panel/images/quota-panel.png" alt="quota-panel" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/quota-panel/images/quota-panel.gif" alt="quota-panel" width="400">
 </p>
 
 > Each OpenCode plugin has a Claude Code mod with the same idea, and each README links to its counterpart.
