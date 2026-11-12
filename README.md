@@ -28,7 +28,7 @@
 | Plugin | What it does |
 |--------|--------------|
 | [opencode-thinking](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-thinking) | WORKING / WAITING / IDLE band that also follows subagents and background tasks, with a theme-aware rainbow border |
-| [opencode-quota-extended](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-quota-extended) | OpenCode Go quota, spend and balance with per-window cards, a CLI, and a flag when a reading goes stale |
+| [opencode-quota-extended](https://github.com/arandevcode/opencode-plugins/tree/main/opencode-quota-extended) | OpenCode Go quota, spend and balance with session-aware per-window cards, a pace tick, a CLI, and a flag when a reading goes stale |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arandevcode/opencode-plugins/main/opencode-thinking/images/opencode-thinking-v2.gif" alt="opencode-thinking" width="400">
@@ -44,14 +44,17 @@
 |-----|--------------|
 | [glow-thinking](https://github.com/arandevcode/claude-mods/tree/main/glow-thinking) | WORKING / WAITING / IDLE band (it follows subagents and background tasks) and a gradient border around every side panel |
 | [quota-panel](https://github.com/arandevcode/claude-mods/tree/main/quota-panel) | Side panel with your 5h and weekly limits, pace and session cost, and a flag when the reading is stale |
+| [hex-swatch](https://github.com/arandevcode/claude-mods/tree/main/hex-swatch) | A color square next to every hex code in Claude's replies, in text, tables and code blocks; it also works with a skin |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/glow-thinking/images/glow-thinking.gif" alt="glow-thinking" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/glow-thinking/images/glow-thinking.gif" alt="glow-thinking" width="280">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/quota-panel/images/quota-panel.gif" alt="quota-panel" width="400">
+  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/quota-panel/images/quota-panel.gif" alt="quota-panel" width="280">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/arandevcode/claude-mods/main/hex-swatch/images/hex-swatch-mosaic.webp" alt="hex-swatch" width="280">
 </p>
 
-> Each OpenCode plugin has a Claude Code mod with the same idea, and each README links to its counterpart.
+> Each OpenCode plugin has a Claude Code mod with the same idea, and each README links to its counterpart. `hex-swatch` has no OpenCode twin.
 
 ---
 
